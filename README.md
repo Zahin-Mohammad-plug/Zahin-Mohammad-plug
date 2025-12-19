@@ -22,7 +22,8 @@ I build systems that handle production constraints — not just features.
 
 ### Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahin-Mohammad-plug&layout=compact&hide=html,css&theme=github_dark)
+![Top Languages]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahin-Mohammad-plug&layout=compact&hide=plpgsql,sql&theme=github_dark)
+
 
 Python • TypeScript • Swift • React • Next.js • FastAPI • PostgreSQL • Docker
 
@@ -32,4 +33,4 @@ Python • TypeScript • Swift • React • Next.js • FastAPI • PostgreSQL
 
 Building production systems that matter. Open to internships where I can ship real software.
 
-📫 [zahinmohammad7@gmail.com](mailto:me@zahin.org) • [LinkedIn](https://linkedin.com/in/zahin-mohammad)
+📫 [me@zahin.org](mailto:me@zahin.org) • [LinkedIn](https://linkedin.com/in/zahin-mohammad)
