@@ -22,7 +22,7 @@ I build systems that handle production constraints — not just features.
 
 ### Stack
 
-![Top Languages]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahin-Mohammad-plug&layout=compact&hide=plpgsql,sql&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahin-Mohammad-plug&layout=compact&hide=plpgsql,sql&theme=github_dark)
 
 
 Python • TypeScript • Swift • React • Next.js • FastAPI • PostgreSQL • Docker
